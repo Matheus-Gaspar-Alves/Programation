@@ -1,7 +1,7 @@
 # Olá, Sou Matheus Gaspar Alves 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=15+years+old+%7C+IT+Student;Learning+HTML5+%26+CSS3;Building+my+path+in+tech!&center=true&size=18" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=15+anos+%7C+Estudante+de+TI;Aprendendo+HTML5+%26+CSS3&center=true&size=18" alt="Typing SVG" />
 </div>
 
 ---
